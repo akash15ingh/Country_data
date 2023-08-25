@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.country{
+  border: 1px solid gray;
+  width: 25rem;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 10px;
 }
